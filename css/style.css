@@ -1,0 +1,20 @@
+.item{
+  border-top: 1px solid #ccc;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.item.removed {
+  text-decoration: line-through;
+
+}
+
+
+input[type="checkbox"] {
+	margin-right:20px; 
+}
+
+span {
+	margin-right: 20px;
+}
+
